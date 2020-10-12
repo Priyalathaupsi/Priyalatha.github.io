@@ -1,0 +1,9 @@
+name: "Priyalatha Govindasamy, Ph.D"
+output_dir: "."
+navbar:
+  title: "Priyalatha Govindasamy"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Me"
+      href: me.html
